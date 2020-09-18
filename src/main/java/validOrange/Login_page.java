@@ -33,6 +33,7 @@ public class Login_page {
 			// Actions action =new Actions(driver);
 		//	 action.click(click).build().perform();					 
 			 	click.click();
+			 	
 		 }
 	 
  }
